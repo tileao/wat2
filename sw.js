@@ -1,10 +1,10 @@
-const CACHE_NAME = 'wac6800-confined-standard-v5';
+const CACHE_NAME = 'wac6800-confined-standard-v6';
 const APP_ASSETS = [
   './',
   './index.html',
   './styles.css',
   './app.js',
-  './app.js?v=confined-standard-v5',
+  './app.js?v=confined-standard-v6',
   './manifest.webmanifest',
   './README.md',
   './data/chart-schema.json',
