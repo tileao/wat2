@@ -1,10 +1,10 @@
-const CACHE_NAME = 'wac6800-unified-confined-ibf-v4';
+const CACHE_NAME = 'wac6800-unified-confined-standard-v1';
 const APP_ASSETS = [
   './',
   './index.html',
   './styles.css',
   './app.js',
-  './app.js?v=confined-v4',
+  './app.js?v=confined-standard-v1',
   './manifest.webmanifest',
   './README.md',
   './data/chart-schema.json',
@@ -12,6 +12,7 @@ const APP_ASSETS = [
   './data/ibf-installed-exact.json',
   './data/ibf-cleararea-exact.json',
   './data/ibf-confined-exact.json',
+  './data/confined-standard-exact.json',
   './assets/offshore_standard_chart_clip.png',
   './docs/WAC charts 6800.pdf',
   './docs/page-07.png',
@@ -19,6 +20,7 @@ const APP_ASSETS = [
   './docs/page-09.png',
   './docs/page-10.png',
   './docs/page-11.png',
+  './docs/page-04.png',
   './docs/page-12.png'
 ];
 
