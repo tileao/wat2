@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wac6800-unified-confined-standard-v2';
+const CACHE_NAME = 'wac6800-confined-standard-v3-confstdv4';
 const APP_ASSETS = [
   './',
   './index.html',
