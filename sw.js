@@ -1,9 +1,10 @@
-const CACHE_NAME = 'wac6800-unified-confined-ibf-v2';
+const CACHE_NAME = 'wac6800-unified-confined-ibf-v4';
 const APP_ASSETS = [
   './',
   './index.html',
   './styles.css',
   './app.js',
+  './app.js?v=confined-v4',
   './manifest.webmanifest',
   './README.md',
   './data/chart-schema.json',
